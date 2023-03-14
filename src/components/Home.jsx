@@ -1,0 +1,12 @@
+import React from "react";
+const Home = () => {
+  return (
+    <div>
+      <img src="https://www.urbansciencemep.com/_next/static/images/banner-thumb-ce9763d5a9793e4688afdc229399007a.png" alt="img" className="img_src"/>
+      <h1 className="header_about">About Us</h1>
+      <p className='para_about'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est, quam. Dolore corporis, sed aspernatur, veniam et odit facere omnis obcaecati voluptatibus, ipsum earum fugit minus illum. Totam delectus optio hic earum harum eligendi libero, commodi unde! Doloribus nisi velit ab eos saepe explicabo rerum atque dolorum commodi ut provident iure, officia at enim. Aut eveniet non ullam laudantium itaque numquam hic quasi nostrum veritatis sit beatae nulla nisi possimus odio quos incidunt, accusantium maxime deserunt. In unde explicabo illo, quo vero odio voluptatum laboriosam modi. Repudiandae molestias recusandae nisi, eius ipsa blanditiis corporis, sapiente omnis sed voluptate sequi voluptatem voluptas? Iste minus, ea inventore quibusdam beatae quod unde eius! Nobis pariatur odio animi ullam temporibus dolores iste et eius nesciunt qui. Qui voluptate, quam in consequatur maxime mollitia pariatur perferendis error vel cum nobis numquam commodi, minus voluptates amet saepe ipsam natus ut earum excepturi aperiam iure soluta dolor! Soluta sunt voluptate laboriosam quae vel numquam atque. Architecto adipisci tempore aspernatur quisquam sed, maiores temporibus deserunt. Iusto atque nobis veniam dolores est aperiam fugit quod illo, earum, placeat possimus tempore. Repellat natus id modi consequatur expedita perspiciatis neque quod magni officiis dolorem, eveniet eaque debitis maiores eligendi blanditiis quo suscipit nisi reiciendis? Corporis tenetur asperiores facere? Pariatur inventore quis culpa facere, consectetur rerum porro quidem delectus. Quaerat doloremque pariatur illo eveniet accusamus modi nisi ab ratione. Voluptatibus modi odit excepturi, beatae voluptatem quasi a repellat, nihil, soluta animi vitae. Deleniti provident placeat totam, earum molestias hic? Beatae doloremque veritatis voluptas dicta, tempora corrupti qui quia sed ullam nulla ex molestias ab distinctio nam debitis reprehenderit minima quas eum nobis? Fugit velit quaerat laboriosam iste, voluptas dolore debitis vel placeat aut itaque similique. Voluptas sunt repellat inventore mollitia qui architecto voluptatum, numquam dolorum nobis quas. Maxime qui vitae reiciendis doloribus ducimus.</p>
+    </div>
+  );
+};
+
+export default Home;

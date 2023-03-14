@@ -1,0 +1,70 @@
+/* navigate */
+*{
+  margin: 0;
+  padding: 0;;
+  box-sizing: border-box;
+}
+.nav_section{
+  width: 100vw;
+  height: 20vh;
+  background-color: aqua ;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 60px;
+  text-decoration: none;
+  position: relative;
+  position: fixed;
+
+}
+.logo{
+  position: absolute;
+  width: 150px;
+  height: auto;
+ left: 100px;
+}
+.btn{
+  width: auto;
+  height: 2rem;
+  padding: 0 16px;
+  position: absolute;
+  right: 130px;
+  bottom: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+  background-color: blue;
+  color: white;
+  border: none;
+}
+.para{
+  position: absolute;
+  color: blue;
+  right: 10px;
+  top: 10px;
+}
+/* home page */
+
+/* about */
+
+.img_src{
+  width: 100vw;
+  height: auto;
+
+}
+.header_about{
+  text-align: center;
+  margin: 40px auto;
+}
+.para_about{
+  margin: auto 100px;
+  font-size: 15px;
+  font-style: italic;
+  word-spacing: 10px;
+}
+h2{
+  margin: 40px auto;
+  text-align: center;
+}
+p{
+  text-align: center;
+}
